@@ -1,1 +1,3 @@
 # kreten
+
+Personal ebuild overlay.

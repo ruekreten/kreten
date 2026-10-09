@@ -796,7 +796,3 @@ src_compile() {
 	pnpm install --frozen-lockfile || die "pnpm install failed"
 	pnpm tauri build || die "tauri build failed"
 }
-
-src_install() {
-	# todo
-}
